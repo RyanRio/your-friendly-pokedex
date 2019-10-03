@@ -1,0 +1,354 @@
+Pokemon,Evolve,item,post_pokemon
+Bulbasaur,Lv. 16,null,Ivysaur
+Ivysaur,Lv. 32,null,Venosaur
+Charmander,Lv. 16,null,Charmeleon
+Charmeleon,Lv. 36,null,Squirtle
+Squirtle,Lv. 16,null,Wartortle
+Wartortle,Lv. 36,null,Blastoise
+Caterpie,Lv. 7,null,Metapod
+Metapod,Lv. 10,null,Butterfree
+Weedle,Lv. 7,null,Kakuna
+Kakuna,Lv. 10,null,Beedrill
+Pidgey,Lv. 18,null,Pidgeotto
+Pidgeotto,Lv. 36,null,Pidgeot
+Rattata,Lv. 20,null,Raticate
+Spearow,Lv. 20,null,Fearow
+Ekans,Lv. 22,null,Arbok
+Arbok,Friendship,null,Pikachu
+Pikachu,null,Thunderstone,Raichu
+Sandshrew,Lv. 22,null,Sandslash
+Nidoran(F),Lv. 16,null,Nidorina
+Nidorina,null,Moon Stone,Nidoqueen
+Nidoran(M),Lv. 16,null,Nidorino
+Nidorino,null,Moon Stone,Nidoking
+Nidoking,Friendship,null,Clefairy
+Clefairy,null,Moon Stone,Clefable
+Vulpix,null,Fire Stone,Ninetales
+Ninetales,Friendship,null,Jigglypuff
+Jigglypuff,null,Moon Stone,Wigglytuff
+Zubat,Lv. 22,null,Golbat
+Oddish,Lv. 22,null,Gloom
+Gloom,null,Leaf Stone,Vileplume
+Paras,Lv. 24,null,Parasect
+Venonat,Lv. 31,null,Venomoth
+Diglett,Lv. 26,null,Dugtrio
+Meowth,Lv. 28,null,Persian
+Psyduck,Lv. 33,null,Golduck
+Mankey,Lv. 28,null,Primeape
+Growlithe,null,Fire Stone,Arcanine
+Poliwag,Lv. 25,null,Poliwhirl
+Poliwhirl,null,Water Stone,Poliwrath
+Abra,Lv. 16,null,Kadabra
+Kadabra,Trade,null,Alakazam
+Machop,Lv. 28,null,Machoke
+Machoke,Trade,null,Machamp
+Bellsprout,Lv. 21,null,Weepinbell
+Weepinbell,null,Leaf Stone,Victreebel
+Tentacool,Lv. 30,null,Tentacruel
+Geodude,Lv. 25,null,Graveler
+Graveler,Trade,null,Golem
+Ponyta,Lv. 40,null,Rapidash
+Slowpoke,Lv. 37,null,Slowbro
+Magnemite,Lv. 30,null,Magneton
+Doduo,Lv. 31,null,Dodrio
+Seel,Lv. 34,null,Dewgong
+Grimer,Lv. 38,null,Muk
+Shellder,null,Water Stone,Cloyster
+Gastly,Lv. 25,null,Haunter
+Haunter,Trade,null,Gengar
+Drowzee,Lv. 26,null,Hypno
+Krabby,Lv. 28,null,Kingler
+Voltorb,Lv. 30,null,Electrode
+Exeggcute,null,Leaf Stone,Exeggutor
+Cubone,Lv. 28,null,Marowak
+Marowak,Lv. 20 (Atk>Def),null,Hitmonlee
+Hitmonlee,Lv. 20 (Atk<Def),null,Hitmonchan
+Koffing,Lv. 35,null,Weezing
+Rhyhorn,Lv. 42,null,Rhydon
+Rhydon,Morn/Day Fr. ,Oval Stone,Chansey
+Horsea,Lv. 32,null,Seadra
+Goldeen,Lv. 33,null,Seaking
+Staryu,null,Water Stone,Starmie
+Starmie,Level w/ Mimic,null,Mr. Mime
+Scyther,Lv. 30,null,Jynx
+Jynx,Lv. 30,null,Electabuzz
+Electabuzz,Lv. 30,null,Magmar
+Magikarp,Lv. 20,null,Gyarados
+Omanyte,Lv. 40,null,Omastar
+Kabuto,Lv. 40,null,Kabutops
+Aerodactyl,Friendship,null,Snorlax
+Dratini,Lv. 30,null,Dragonair
+Dragonair,Lv. 55,null,Dragonite
+Chikorita,Lv. 16,null,Bayleef
+Bayleef,Lv. 32,null,Meganium
+Cyndaquil,Lv. 14,null,Quilava
+Quilava,Lv. 36,null,Typhlosion
+Totodile,Lv. 18,null,Croconaw
+Croconaw,Lv. 30,null,Feraligatr
+Sentret,Lv. 15,null,Furret
+Hoothoot,Lv. 20,null,Noctowl
+Ledyba,Lv. 18,null,Ledian
+Spinarak,Lv. 22,null,Ariados
+Ariados,Friendship,null,Crobat
+Chinchou,Lv. 27,null,Lanturn
+Togepi,Friendship,null,Togetic
+Natu,Lv. 25,null,Xatu
+Mareep,Lv. 15,null,Flaaffy
+Flaaffy,Lv. 30,null,Ampharos
+Ampharos,null,Sun Stone,Bellossom
+Bellossom,Friendship,null,Marill
+Marill,Lv. 18,null,Azumarill
+Azumarill,Level w/ Mimic,null,Sudowoodo
+Sudowoodo,Trade,Kings Rock,Politoed
+Hoppip,Lv. 18,null,Skiploom
+Skiploom,Lv. 27,null,Jumpluff
+Sunkern,null,Sun Stone,Sunflora
+Wooper,Lv. 20,null,Quagsire
+Misdreavus,null,Dusk Stone,Mismagius
+Unown,Lv. 15,null,Wobbuffet
+Pineco,Lv. 31,null,Forretress
+Gligar,Trade ,Metal Coat,Steelix
+Snubbull,Lv. 23,null,Granbull
+Scyther,Trade,Metal Coat,Scizor
+Teddiursa,Lv. 30,null,Ursaring
+Slugma,Lv. 38,null,Magcargo
+Swinub,Lv. 33,null,Piloswine
+Remoraid,Lv. 25,null,Octillery
+Mantyke,Level t/ Remoraid,null,Mantine
+Houndour,Lv. 24,null,Houndoom
+Houndoom,Trade,Dragon Scale,Kingdra
+Phanpy,Lv. 25,null,Donphan
+Donphan,Trade,Up Grade,Porygon2
+Tyrogue,Lv. 20 (Atk=Def),null,Hitmontop
+Miltank,Friendship,null,Blissey
+Larvitar,Lv. 30,null,Pupitar
+Pupitar,Lv. 55,null,Tyranitar
+Treecko,Lv. 16,null,Grovyle
+Grovyle,Lv. 36,null,Sceptile
+Torchic,Lv. 16,null,Combusken
+Combusken,Lv. 36,null,Blaziken
+Mudkip,Lv. 16,null,Marshtomp
+Marshtomp,Lv. 36,null,Swampert
+Poochyena,Lv. 18,null,Mightyena
+Zigzagoon,Lv. 20,null,Linoone
+Wurmple,Lv. 7,null,Silcoon
+Silcoon,Lv. 10,null,Beautifly
+Beautifly,Lv. 7,null,Cascoon
+Cascoon,Lv. 10,null,Dustox
+Lotad,Lv. 14,null,Lombre
+Lombre,null,Water Stone,Ludicolo
+Seedot,Lv. 14,null,Nuzleaf
+Nuzleaf,null,Leaf Stone,Shiftry
+Taillow,Lv. 22,null,Swellow
+Wingull,Lv. 25,null,Pelipper
+Ralts,Lv. 20,null,Kirlia
+Kirlia,Lv. 30,null,Gardevoir
+Surskit,Lv. 22,null,Masquerain
+Shroomish,Lv. 23,null,Breloom
+Slakoth,Lv. 18,null,Vigoroth
+Vigoroth,Lv. 36,null,Slaking
+Nincada,Lv. 20,null,Ninjask
+Ninjask,Lv. 20 t/ Empty Space,null,Shedinja
+Whismur,Lv. 20,null,Loudred
+Loudred,Lv. 40,null,Exploud
+Makuhita,Lv. 24,null,Hariyama
+Skitty,null,Moon Stone,Delcatty
+Aron,Lv. 32,null,Lairon
+Lairon,Lv. 42,null,Aggron
+Meditite,Lv. 37,null,Medicham
+Electrike,Lv. 26,null,Manectric
+Illumise,Morn/Day Friendship,null,Roselia
+Gulpin,Lv. 26,null,Swalot
+Carvanha,Lv. 30,null,Sharpedo
+Wailmer,Lv. 40,null,Wailord
+Numel,Lv. 33,null,Camerupt
+Spoink,Lv. 32,null,Grumpig
+Trapinch,Lv. 35,null,Vibrava
+Vibrava,Lv. 45,null,Flygon
+Cacnea,Lv. 32,null,Cacturne
+Swablu,Lv. 35,null,Altaria
+Barboach,Lv. 30,null,Whiscash
+Corphish,Lv. 30,null,Crawdaunt
+Baltoy,Lv. 36,null,Claydol
+Lileep,Lv. 40,null,Cradily
+Anorith,Lv. 40,null,Armaldo
+Feebas,Level w/ Max Beauty,null,Milotic
+Shuppet,Lv. 37,null,Banette
+Duskull,Lv. 37,null,Dusclops
+Chingling,Night Friendship,null,Chimecho
+Snorunt,Lv. 42,null,Glalie
+Spheal,Lv. 32,null,Sealeo
+Sealeo,Lv. 44,null,Walrein
+Clamperl,Trade ,Deepseatooth,Huntail
+Clamperl,Trade,Deepseascale,Gorebyss
+Bagon,Lv. 30,null,Shelgon
+Shelgon,Lv. 50,null,Salamence
+Beldum,Lv. 20,null,Metang
+Metang,Lv. 45,null,Metagross
+Turtwig,Lv. 18,null,Grotle
+Grotle,Lv. 32,null,Torterra
+Chimchar,Lv. 14,null,Monferno
+Monferno,Lv. 36,null,Infernape
+Piplup,Lv. 16,null,Prinplup
+Prinplup,Lv. 36,null,Empoleon
+Starly,Lv. 14,null,Staravia
+Staravia,Lv. 34,null,Staraptor
+Bidoof,Lv. 15,null,Bibarel
+Kricketot,Lv. 10,null,Kricketune
+Shinx,Lv. 15,null,Luxio
+Luxio,Lv. 30,null,Luxray
+Roselia,null,Shiny Stone,Roserade
+Cranidos,Lv. 30,null,Rampardos
+Shieldon,Lv. 30,null,Bastiodon
+Burmy,Lv. 20F ,Plant Cloak,Wormadam (P)
+Burmy,Lv. 20F ,Sand Cloak,Wormadam (S)
+Burmy,Lv. 20F ,Trash Cloak,Wormadam (T)
+Burmy,Lv. 20M,null,Mothim
+Combee,Lv. 21F,null,Vespiquen
+Buizel,Lv. 26,null,Floatzel
+Cherubi,Lv. 25,null,Cherrim
+Shellos,Lv. 30,null,Gastrodon
+Gastrodon,Level w/ Double Hit,null,Ambipom
+Drifloon,Lv. 28,null,Drifblim
+Buneary,Friendship,null,Lopunny
+Lopunny,null,Dusk Stone,Mismagius
+Mismagius,null,Dusk Stone,Honchkrow
+Glameow,Lv. 38,null,Purugly
+Stunky,Lv. 34,null,Skuntank
+Bronzor,Lv. 33,null,Bronzong
+Gible,Lv. 24,null,Gabite
+Gabite,Lv. 48,null,Garchomp
+Riolu,Morn/Day Friendship,null,Lucario
+Hippopotas,Lv. 34,null,Hippowdon
+Skorupi,Lv. 40,null,Drapion
+Croagunk,Lv. 37,null,Toxicroak
+Finneon,Lv. 31,null,Lumineon
+Snover,Lv. 40,null,Abomasnow
+Abomasnow,Night Level ,Razor Claw,Weavile
+Weavile,Level a/ Mt. Coronet,null,Magnezone
+Lickitung,Level w/ Rollout,null,Lickilicky
+Rhydon,Trade,Protector,Rhyperior
+Tangela,Level w/ Ancientpower,null,Tangrowth
+Electabuzz,Trade,Electrizer,Electivire
+Magmar,Trade,Magmarizer,Magmortar
+Togepi,null,Shiny Stone,Togekiss
+Porygon,Trade,Dubious Disc,Porygon-Z
+Gardevoir,null,Dawn Stone,Gallade
+Nosepass,Level a/ Mt. Coronet,null,Probopass
+Probopass,Trade w/ Reaper Cloth, Reaper Cloth,Dusknoir
+Dusclops,Dawn StoneF,null,Froslass
+Snivy,Lv. 17,null,Servine
+Servine,Lv. 36,null,Serperior
+Tepig,Lv. 17,null,Pignite
+Pignite,Lv. 36,null,Emboar
+Oshawott,Lv. 17,null,Dewott
+Dewott,Lv. 36,null,Samurott
+Patrat,Lv. 20,null,Watchog
+Lillipup,Lv. 16,null,Herdier
+Herdier,Lv. 32,null,Stoutland
+Purrloin,Lv. 20,null,Liepard
+Pansage,null,Leaf Stone,Simisage
+Pansage,null,Fire Stone,Simisear
+Pansage,null,Water Stone,Simipour
+Munna,null,Moon Stone,Musharna
+Pidove,Lv. 21,null,Tranquill
+Tranquill,Lv. 32,null,Unfezant
+Blitzle,Lv. 27,null,Zebstrika
+Roggenrola,Lv. 25,null,Boldore
+Boldore,Trade,null,Gigalith
+Woobat,Friendship,null,Swoobat
+Drilbur,Lv. 31,null,Excadrill
+Timburr,Lv. 25,null,Gurdurr
+Gurdurr,Trade,null,Conkeldurr
+Tympole,Lv. 25,null,Palpitoad
+Palpitoad,Lv. 36,null,Seismitoad
+Sewaddle,Lv. 20,null,Swadloon
+Swadloon,Friendship,null,Leavanny
+Venipede,Lv. 22,null,Whirlipede
+Whirlipede,Lv. 30,null,Scolipede
+Cottonee,null,Sun Stone,Whimsicott
+Petilil,null,Sun Stone,Lilligant
+Sandile,Lv. 29,null,Krokorok
+Krokorok,Lv. 40,null,Krookodile
+Darumaka,Lv. 35,null,Darmanitan
+Dwebble,Lv. 34,null,Crustle
+Yamask,Lv. 34,null,Cofagrigus
+Tirtouga,Lv. 37,null,Carracosta
+Archen,Lv. 37,null,Archeops
+Trubbish,Lv. 36,null,Garbodor
+Zorua,Lv. 30,null,Zoroark
+Minccino,null,Shiny Stone,Cinccino
+Gothita,Lv. 32,null,Gothorita
+Gothorita,Lv. 41,null,Gothitelle
+Solosis,Lv. 32,null,Duosion
+Duosion,Lv. 41,null,Reuniclus
+Ducklett,Lv. 35,null,Swanna
+Vanillite,Lv. 35,null,Vanillish
+Vanillish,Lv. 47,null,Vanilluxe
+Deerling,Lv. 34,null,Sawsbuck
+Karrablast,Trade shelmet,null,Escavalier
+Foongus,Lv. 39,null,Amoonguss
+Frillish,Lv. 40,null,Jellicent
+Joltik,Lv. 36,null,Galvantula
+Ferroseed,Lv. 40,null,Ferrothorn
+Klink,Lv. 38,null,Klang
+Klang,Lv. 49,null,Klinklang
+Tynamo,Lv. 39,null,Eelektrik
+Eelektrik,null,Thunderstone,Eelektross
+Elgyem,Lv. 42,null,Beheeyem
+Litwick,Lv. 41,null,Lampent
+Lampent,null,Dusk Stone,Chandelure
+Axew,Lv. 38,null,Fraxure
+Fraxure,Lv. 48,null,Haxorus
+Cubchoo,Lv. 37,null,Beartic
+Shelmet,Trade karrablast,null,Accelgor
+Mienfoo,Lv. 50,null,Mienshao
+Golett,Lv. 43,null,Golurk
+Pawniard,Lv. 52,null,Bisharp
+Rufflet,Lv. 54,null,Braviary
+Vullaby,Lv. 54,null,Mandibuzz
+Deino,Lv. 50,null,Zweilous
+Zweilous,Lv. 64,null,Hydreigon
+Larvesta,Lv. 59,null,Volcarona
+Chespin,Lv. 16,null,Quilladin
+Quilladin,Lv. 36,null,Chesnaught
+Fennekin,Lv. 16,null,Braixen
+Braixen,Lv. 36,null,Delphox
+Froakie,Lv. 16,null,Frogadier
+Frogadier,Lv. 36,null,Greninja
+Bunnelby,Lv. 20,null,Diggersby
+Fletchling,Lv. 17,null,Fletchinder
+Fletchinder,Lv. 35,null,Talonflame
+Scatterbug,Lv. 9,null,Spewpa
+Spewpa,Lv. 12,null,Vivillon
+Litleo,Lv. 35,null,Pyroar
+Flabébé,Lv. 19,null,Floette
+Floette,null,Shiny Stone,Florges
+Skiddo,Lv. 32,null,Gogoat
+Pancham,Lv. 32 \w Dark-type in party,null,Pangoro
+Espurr,Lv. 25,null,Meowstic
+Honedge,Lv. 35,null,Doublade
+Doublade,null,Dusk Stone,Aegislash
+Spritzee,Trade,Sachet,Aromatisse
+Swirlix,Trade,Whipped Dream,Slurpuff
+Inkay,Lv. 30 while holding 3DS upside down,null,Malamar
+Binacle,Lv. 39,null,Barbaracle
+Skrelp,Lv. 48,null,Dragalge
+Clauncher,Lv. 37,null,Clawitzer
+Helioptile,null,Sun Stone,Heliolisk
+Tyrunt,Lv. 39 During daytime,null,Tyrantrum
+Amaura,Lv. 39 During nighttime,null,Aurorus
+Goomy,Lv. 40,null,Sliggoo
+Sliggoo,Lv. 50 in the rain,null,Goodra
+Phantump,Trade,null,Trevenant
+Pumpkaboo,Trade,null,Gourgeist
+Bergmite,Lv. 37,null,Avalugg
+Noibat,Lv. 48,null,Noivern
+Eevee,null,Water Stone,Vaporeon
+Eevee,null,Thunderstone,Jolteon
+Eevee,null,Fire Stone,Flareon
+Eevee,Morn/Day Friendship,null,Espeon
+Eevee,Night Friendship,null,Umbreon
+Eevee,null,Leaf Stone,Leafeon
+Eevee,Level Near Mossy Rock,null,Glaceon
+Eevee,Level with a fairy-type move,null,Sylveon

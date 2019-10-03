@@ -1,0 +1,31 @@
+game_name,generation,region
+Red,1,Kanto
+Blue,1,Kanto
+Yellow,1,Kanto
+Gold,2,Johto
+Silver,2,Johto
+Crystal,2,Johto
+Ruby,3,Hoenn
+Sapphire,3,Hoenn
+Emerald,3,Hoenn
+FireRed,3,Hoenn
+LeafGreen,3,Hoenn
+Diamond,4,Sinnoh
+Pearl,4,Sinnoh
+Platinum,4,Sinnoh
+HeartGold,4,Sinnoh
+SoulSilver,4,Sinnoh
+Black,5,Unova
+White,5,Unova
+Black 2,5,Unova
+White 2,5,Unova
+X,6,Kalos
+Y,6,Kalos
+Omega Ruby,6,Kalos
+Alpha Sapphire,6,Kalos
+Sun,7,Galar
+Moon,7,Galar
+Ultra Sun,7,Galar
+Ultra Moon,7,Galar
+"Let's Go, Pikachu!",7,Galar
+"Let's Go, Eevee!",7,Galar
